@@ -20,10 +20,6 @@ A glowing-themed e-commerce front-end template.
 - CSS3 (custom effects and transitions)
 - JavaScript (light interactivity)
 
-## 📷 Screenshots
-
-> *(Upload screenshots from the site and reference them here.)*
-
 ## 🚀 Run Locally
 
 Clone and open `index.html`:
